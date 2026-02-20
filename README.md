@@ -47,17 +47,17 @@ Custom systems for movement, obstacles, and progression.
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">LinkedIn</a> •
-  <a href="https://www.instagram.com/YOUR-IG" target="_blank">Instagram</a> •
-  <a href="https://www.tiktok.com/@YOUR-TIKTOK" target="_blank">TikTok</a> •
-  <a href="https://github.com/YOUR-USERNAME" target="_blank">GitHub</a> •
-  <a href="https://www.youtube.com/@YOUR-CHANNEL" target="_blank">YouTube</a> •
-  <a href="https://wiam-boop.itch.io" target="_blank">itch.io</a>
+  <a href="https://www.linkedin.com/in/wiam-bahri-6575b1317" target="_blank">LinkedIn</a> •
+  <a href="https://instagram.com/wiam.dev?igsh=MWZmZmFycTcyaHc5OQ==" target="_blank">Instagram</a> •
+  <a href="https://tiktok.com/@sigma0_0gamer" target="_blank">TikTok</a> •
+  <a href="https://github.com/wiam-boop" target="_blank">GitHub</a> •
+  <a href="https://www.youtube.com/@wiamdev" target="_blank">YouTube</a> •
+  <a href="https://wiam-boop.itch.io/" target="_blank">itch.io</a>
 </p>
 
 ---
 
 <p align="center">
   🚀 Always learning, building, and creating interactive experiences ✨  
-  📌 For professional inquiries, contact me via <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">LinkedIn</a>.
+  📌 For professional inquiries, contact me via <a href="https://www.linkedin.com/in/wiam-bahri-6575b1317" target="_blank">LinkedIn</a>.
 </p>
