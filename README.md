@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I am a third-year Data Science Engineering student and an independent Game Developer.  
+  I am a 4th year Data Science Engineering student and an independent Game Developer.  
   I enjoy creating interactive and emotional experiences using code and creativity.
 </p>
 
